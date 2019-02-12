@@ -23,3 +23,4 @@ John Deck is a programmer, farmer, and jack-of-all-trades variously working on b
 
 
 <figure><img src="/media/Laura150.jpg"/><figcaption>Laura Brenskelle</figure>
+Laura is a PhD student at the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/) studying biodiversity informatics. Her interests include developing standards and methods to integrate heterogeneous biodiversity data, making museum specimen data more widely accessible, and eating cheese (pictured).
