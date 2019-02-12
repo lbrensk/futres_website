@@ -21,4 +21,5 @@ Rob Guralnick is a hybrid biodiversity scientist and informatician, and the Cura
 <figure><img src="/media/john150.jpg"/><figcaption>John Deck</figcaption></figure>
 John Deck is a programmer, farmer, and jack-of-all-trades variously working on biodiversity informatics projects, sample tracking software, and ontology driven data integration when he is not busy with his cows and co-managing [Deck Family Farm](https://deckfamilyfarm.com/).  He works for the [Berkeley Natural History Museums](https://bnhm.berkeley.edu/) and [Biocode, LLC](https://biocodellc.com/).
 
+
 <figure><img src="/media/Laura150.jpg"/><figcaption>Laura Brenskelle</figure>
